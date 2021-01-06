@@ -51,6 +51,7 @@ Plug 'ekalinin/Dockerfile.vim'
 Plug 'tpope/vim-dadbod'
 Plug 'zchee/vim-flatbuffers'
 Plug 'hiphish/info.vim'
+Plug 'thinca/vim-localrc'
 
 
 " Over 70 language packs
